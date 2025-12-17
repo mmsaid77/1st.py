@@ -106,3 +106,6 @@ myString5 = ("""Python5
 glass5 'Test' "Test"
 book5""") # You can use triple double quotes for multiple lines string to show in different lines
 print(myString5)
+
+print("myStrings")
+
